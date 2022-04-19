@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 ---
 #### I'm passionate about learning new techonologies and wish to explore the interestion of techonolgy and finance. 
 
