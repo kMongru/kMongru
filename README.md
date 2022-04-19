@@ -14,7 +14,7 @@
 
 Visit my **[Portfolio Site](https://keeganmongru.com)** to learn more! 
 
-[![Linkedin: Keegan](https://img.shields.io/badge/-Keegan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keeganmongru/)](https://www.linkedin.com/in/keeganmongru/)
+[![Linkedin: Keegan](https://img.shields.io/badge/-Keegan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keegan-mongru/)](https://www.linkedin.com/in/keegan-mongru/)
 [![GitHub Keegan](https://img.shields.io/github/followers/kMongru?label=follow&style=social)](https://github.com/kMongru)
 
 
