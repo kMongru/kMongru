@@ -1,14 +1,14 @@
 ### Hi there! 👋
 ---
-#### I'm passionate about learning new techonologies and wish to explore the interestion of techonolgy and finance. 
+#### I'm passionate about learning new technologies and wish to explore the intersection of technology and finance. 
 
 ##### BIO
 - 🏢 I'm currently working as a **Software Engineering Intern @ TD Canada Trust**
 - ⚙️ Tech I feel comfortable with: `.js`, `.java`, `.html`, `.css`, `.jsx`, `.fig`, `.xlsx`
-- 🎓 Completing a dual degree at **Ivey's Business School (HBA)** and **Western University (BE.Software)**
+- 🎓 Completing a dual degree at **Ivey's Business School (HBA)** and **Western University (BE. Software)**
 - 🔭 I’m currently working on my **[Search Visualization Project](https://github.com/kMongru/react-search-project)** with **React** and **JavaScript**.
 - 🌱 Learning all about **Python** in hopes to build a trading algorithm. 
-- ⚡ Fun fact: I have been on national television in a **Titleist Junior Golf Commerical!**
+- ⚡ Fun fact: I have been on national television in a **Titleist Junior Golf Commercial!**
 
 ##### SOCIALS
 
