@@ -3,11 +3,10 @@
 #### I'm passionate about learning new technologies and wish to explore the intersection of technology and finance. 
 
 ##### BIO
-- 🏢 I'm currently working as a **Software Engineering Intern @ TD Canada Trust**
+- 🏢 I'm currently working as a **Software Engineering Intern @ Sunlife Financial**
 - ⚙️ Tech I feel comfortable with: `.js`, `.java`, `.html`, `.css`, `.jsx`, `.fig`, `.xlsx`
 - 🎓 Completing a dual degree at **Ivey's Business School (HBA)** and **Western University (BE. Software)**
-- 🔭 I’m currently working on my **[PGA Performance Analysis](https://github.com/kMongru/pga-performance-analysis)** with **Python** and **NumPy**.
-- 🌱 Learning all about **Python** in hopes to build a trading algorithm. 
+- 🌱 Learning all about **Web3** in hopes to build a defi app! 
 - ⚡ Fun fact: I have been on national television in a **Titleist Junior Golf Commercial!**
 
 ##### SOCIALS
