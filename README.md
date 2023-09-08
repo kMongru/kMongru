@@ -4,7 +4,7 @@
 
 ##### BIO
 - 🏢 I'm currently working as a **Software Engineering Intern @ Sunlife Financial**
-- ⚙️ Tech I feel comfortable with: `.js`, `.java`, `.html`, `.css`, `.jsx`, `.fig`, `.xlsx`
+- ⚙️ Tech I feel comfortable with: `.ts`, `.java`, `.tsx`, `.css`, `.fig`, `.xlsx`
 - 🎓 Completing a dual degree at **Ivey's Business School (HBA)** and **Western University (BE. Software)**
 - 🌱 Learning all about **Web3** in hopes to build a defi app! 
 - ⚡ Fun fact: I have been on national television in a **Titleist Junior Golf Commercial!**
