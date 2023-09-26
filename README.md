@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ---
-#### I'm passionate about learning new technologies and wish to explore the intersection of technology and finance. 
+I'm passionate about learning new technologies and wish to explore the intersection of technology and finance. 
 
 ##### BIO
 - 🏢 I'm currently working as a **Software Engineering Intern @ Sunlife Financial**
